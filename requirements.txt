@@ -1,12 +1,12 @@
 wheel
 rust 
 aiohttp
-aria2p==0.9.1
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 hachoir
 Pillow
 pyrogram
 tgcrypto
-youtube_dl
+https://github.com/Anshusharma75/gandusaala/archive/refs/heads/master.zip
 hurry.filesize
 python-telegram-bot
 python-dotenv
@@ -16,3 +16,4 @@ lxml
 requests
 messages
 js2py
+https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip
