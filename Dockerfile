@@ -24,7 +24,6 @@ RUN \
 apk add --no-cache \
     p7zip \
     git \
-    aria2 \
     wget \
     curl \
     busybox \
