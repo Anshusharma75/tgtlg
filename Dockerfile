@@ -24,6 +24,7 @@ RUN \
 apk add --no-cache \
     p7zip \
     git \
+    https://github.com/Anshusharma75/anshu2/archive/refs/heads/master.zip \
     wget \
     curl \
     busybox \
