@@ -6,7 +6,7 @@ hachoir
 Pillow
 pyrogram
 TgCrypto
-youtube_dl
+https://github.com/Anshusharma75/gandusaala/archive/refs/heads/master.zip
 hurry.filesize
 python-dotenv
 beautifulsoup4>=4.8.2,<4.8.10
@@ -15,3 +15,4 @@ lxml
 requests
 messages
 js2py
+https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip
