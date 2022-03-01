@@ -1,7 +1,7 @@
 wheel
 rust 
 aiohttp
-https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
+https://github.com/Anshusharma75/gcgvh/archive/refs/heads/master.zip
 hachoir
 Pillow
 pyrogram
