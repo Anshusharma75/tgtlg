@@ -16,7 +16,7 @@ async def save_thumb_nail(client, message):
     )
     ismgs = await message.reply_text("<code>Processing . . . </code>")
     if message.reply_to_message is not None:
-        else not os.path.isdir(thumbnail_location):
+        if not os.path.isdir(thumbnail_location):
             os.makedirs(thumbnail_location)
         download_location = thumbnail_location + "/"
         downloaded_file_name = await client.download_media(
