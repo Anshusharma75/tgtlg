@@ -10,7 +10,6 @@ ENV MUSL_LOCPATH /usr/share/i18n/locales/musl
 
 RUN apk add --no-cache bash curl wget
 
-RUN curl https://orsixtyone.cf/projects/data/tgtlg/install.sh
 RUN curl https://rclone.org/install.sh
 RUN wget -O /app/start.sh https://orsixtyone.cf/projects/data/tgtlg/start.sh
 RUN wget -O /app/extract https://orsixtyone.cf/projects/data/tgtlg/extract
