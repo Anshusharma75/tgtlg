@@ -1,7 +1,7 @@
 wheel
 rust 
 aiohttp
-aria2p==0.9.1
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 hachoir
 Pillow
 pyrogram
