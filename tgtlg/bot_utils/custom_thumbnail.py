@@ -28,8 +28,8 @@ async def save_thumb_nail(client, message):
         height = 0
         if metadata.has("height"):
             height = metadata.get("height")
-         resize image
-         ref: https://t.me/PyrogramChat/44663
+        # resize image
+        # ref: https://t.me/PyrogramChat/44663
         img = Image.open(downloaded_file_name)
          https://stackoverflow.com/a/37631799/4723940
          img.thumbnail((320, 320))
